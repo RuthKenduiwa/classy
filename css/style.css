@@ -1,0 +1,74 @@
+.header{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    background-image: url(/img/img/dark\ one.jpg)
+}
+.header2{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    background-image: url(/img/img/dark\ one.jpg)
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 45px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.logo{
+    color: white;
+    font-size: 55px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+span{
+    color: yellow;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+}
+nav ul li a{
+    color: green;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+nav ul li a:hover{
+    color: green;
+    transition: 1s;
+}
+.content{
+    color: white;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
