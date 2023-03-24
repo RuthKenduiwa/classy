@@ -4,7 +4,7 @@
     background-color: black;
     background-size: cover;
     background-position: center;
-    background-image: url(/img/img/dark\ one.jpg)
+    background-image: url("/img/img/dark one.jpg")
 }
 nav{
     display: flex;
